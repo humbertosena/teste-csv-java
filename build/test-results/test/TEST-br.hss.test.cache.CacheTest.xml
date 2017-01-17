@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.hss.test.cache.CacheTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-01-17T02:36:15" hostname="MacBook-Air-de-Catia.local" time="0.019">
+  <properties/>
+  <testcase name="testJCacheMemory" classname="br.hss.test.cache.CacheTest" time="0.002"/>
+  <testcase name="testJCacheMemory" classname="br.hss.test.cache.CacheTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

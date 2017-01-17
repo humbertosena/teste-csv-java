@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//resources/cidades.csv=ISO-8859-1
+encoding//resources/cidades2.csv=ISO-8859-1
+encoding//src/main/java/br/hss/app/Application.java=ISO-8859-1
+encoding//src/main/java/br/hss/app/ds/DataSourceFactory.java=ISO-8859-1
+encoding//src/main/java/br/hss/app/ds/csv/DataSourceFileCSV.java=ISO-8859-1
+encoding//src/main/java/br/hss/app/ds/csv/ResultSetFileCSV.java=ISO-8859-1
+encoding//src/main/java/br/hss/app/ds/csv/ResultSetMetaDataFileCSV.java=ISO-8859-1

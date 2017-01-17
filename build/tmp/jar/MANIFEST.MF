@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Desafio Java
+Implementation-Version: 0.1
+Main-Class: br.hss.app.Application
+

@@ -1,5 +1,7 @@
 apply plugin: 'java'
 
+compileJava.options.encoding = 'ISO-8859-1'
+
 repositories {
     jcenter()
 }
@@ -8,3 +10,15 @@ dependencies {
     //compile 'org.slf4j:slf4j-api:1.7.21'
     testCompile 'junit:junit:4.12'
 }
+
+sourceCompatibility = 1.8
+version = '0.1'
+jar {
+    manifest {
+        attributes 'Implementation-Title': 'Desafio Java',
+                   'Implementation-Version': version,
+                   'Main-Class': 'br.hss.app.Application'
+    }
+    
+}
+
